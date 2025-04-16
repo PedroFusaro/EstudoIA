@@ -1,2 +1,2 @@
 # EstudoIA
-Estudo de implementação de uma IA
+Criação de uma IA capaz de prever a nota de crédito de clientes de uma financeira com 86% de precisão baseado nas características dos clientes
